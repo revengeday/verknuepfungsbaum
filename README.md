@@ -2,7 +2,7 @@
 
 "**Verknüpfungsbaum**" is a free and user-friendly alternative to *Corpotree* that allows you to create a personalized landing page for all your important links in one place. 
 
-![Revengeday's Verknüpfungsbaum](https://links.revenge.day/images/verknuepfungsbaum.png)
+![Revengeday's Verknüpfungsbaum](https://raw.githubusercontent.com/revengeday/verknuepfungsbaum/main/verknuepfungsbaum.png)
 
 With "**Verknüpfungsbaum**," you can easily create a tree-like structure of links and categorize them according to your preferences. 
 
