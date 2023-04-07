@@ -1,0 +1,118 @@
+/*
+                              __ __
+    __   __        __        /_//_/     __                    __
+    | | / /__ ____/ /__ ___  __ _____  / _/_ _____  ___ ____ / /  ___ ___ ____ _
+    | |/ / -_) __/  '_// _ \/ // / _ \/ _/ // / _ \/ _ `(_-</ _ \/ _ `/ // /  ' \
+    |___/\__/_/ /_/\_\/_//_/\_,_/ .__/_/ \_,_/_//_/\_, /___/_.__/\_,_/\_,_/_/_/_/
+                               /_/                /___/
+
+*/
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font-family: monospace;
+}
+html {
+    background-image: url('../images/background.webp');
+    background-color: black;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    height: fit-content;
+    min-height: 100%;
+}
+:root {
+    --accentcolor: #fff;
+    --delay: .3s;
+}
+
+.description,
+.source {
+    color: white;
+    text-align: center;
+    margin: 27px auto;
+    margin-top: 10px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.separator,
+.source {
+    color: white;
+    text-align: center;
+    margin: 25px auto;
+    margin-top: 20px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.source {
+    font-size: small;
+    margin-top: 50px;
+}
+
+.picture,
+.picture img {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin: 35px auto 20px;
+    border-radius: 50%;
+}
+
+.user {
+    color: var(--accentcolor);
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.links {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 27px auto;
+}
+
+.link {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: var(--accentcolor);
+    border: solid var(--accentcolor) 2px;
+    border-radius: 5px;
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+@media (hover: hover) {
+    .link:hover {
+        background-color: var(--accentcolor);
+        color: #000;
+        /* Fallback for older browsers */
+        color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.link:active {
+    background-color: var(--accentcolor);
+    color: #000;
+    /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
+}
