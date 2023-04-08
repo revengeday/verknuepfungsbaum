@@ -23,6 +23,66 @@ Just change the CSS classes in the index.html which are used for links, e.g. lik
 }
 
 .github {
-    background-color: rgba(36, 41, 47, 0.86);
+    background-color: rgba(36, 41, 47, 0.8);
+    color: #ffffff;
+}
+
+.bandcamp {
+    background-color: rgba(97, 146, 156, 0.8);
+    color: #ffffff;
+}
+
+.bandcamp-alt {
+    background-color: rgba(29, 160, 195, 0.8);
+    color: #ffffff;
+}
+
+.ko-fi {
+    background-color: rgba(19, 195, 255, 0.8);
+    color: #ffffff;
+}
+
+.soundcloud {
+    background-color: rgba(255, 85, 0, 0.8);
+    color: #ffffff;
+}
+
+.youtube {
+    background-color: rgba(234, 50, 35, 0.8);
+    color: #ffffff;
+}
+
+.youtube-music {
+    background-color: rgba(255, 0, 2, 0.8);
+    color: #fffefd;
+}
+
+.spotify {
+    background-color: rgba(26, 178, 107, 0.8);
+    color: #ffffff;
+}
+
+.spotify-alt {
+    background-color: rgba(30, 215, 96, 0.8);
+    color: #ffffff;
+}
+
+.apple-music {
+    background-color: rgba(251, 66, 90, 0.8);
+    color: #fefefe;
+}
+
+.amazon-music {
+    background-color: rgba(0, 130, 199, 0.8);
+    color: #ffffff;
+}
+
+.tidal {
+    background-color: rgba(16, 16, 18, 0.8);
+    color: #ffffff;
+}
+
+.deezer {
+    background-color: rgba(245, 162, 0, 0.8);
     color: #ffffff;
 }
