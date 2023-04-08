@@ -1,0 +1,28 @@
+/*
+Using these CSS classes it is possible that the buttons get a different color matching the linked page.
+Just change the CSS classes in the index.html which are used for links, e.g. like this: class="link mastodon"
+*/
+.mastodon {
+    background-color: rgba(99, 100, 255, 0.8);
+    color: #ffffff;
+}
+
+.pixelfed {
+    background-color: rgba(255, 135, 20, 0.8);
+    color: #ffffff;
+}
+
+.reddit {
+    background-color: rgba(255, 69, 0, 0.8);
+    color: #ffffff;
+}
+
+.discord {
+    background-color: rgba(64, 78, 237, 0.8);
+    color: #ffffff;
+}
+
+.github {
+    background-color: rgba(36, 41, 47, 0.86);
+    color: #ffffff;
+}
