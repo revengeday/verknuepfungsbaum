@@ -41,6 +41,11 @@ body {
     max-width: 500px;
 }
 
+.separator {
+font-size: 1.1rem;
+font-weight: unset;
+}
+
 .separator,
 .source {
     color: white;
