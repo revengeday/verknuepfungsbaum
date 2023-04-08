@@ -12,7 +12,8 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Username - 🌳🔗 Verknüpfungsbaum</title>
+      <meta name="description" content="YOUR DESCRIPTION HERE">
+      <title>Username - Verknüpfungsbaum 🌳🔗 </title>
       <link rel="icon" href="./images/profile.jpg" type="image/x-icon">
       <link rel="stylesheet" href="./css/style.css">
       <!--      
@@ -22,13 +23,13 @@
       <!--
          This script is designed to optimize the display of meta tags when sharing content on social media. By using this script, you can ensure that your content looks its best when it's shared on platforms like Mastodon, Diaspora, and Friendica (and the other pages from corpos!). The script is easy to use and can be customized to fit the specific needs of your website or social media campaign.
          -->
-      <meta property="og:title" content="Username - 🌳🔗 Verknüpfungsbaum">
+      <meta property="og:title" content="Username - Verknüpfungsbaum 🌳🔗 ">
       <meta property="og:type" content="website">
       <meta property="og:image" content="./images/header.png">
       <meta property="og:url" content="https://YOURDOMAIN.tld">
       <meta name="twitter:card" content="summary_large_image">
       <meta property="og:description" content="YOUR DESCRIPTION HERE">
-      <meta property="og:site_name" content="Username - 🌳🔗 Verknüpfungsbaum">
+      <meta property="og:site_name" content="Username - Verknüpfungsbaum 🌳🔗">
       <!--
          This script is designed to include the ForkAwesome icon font in your Verknüpfungsbaum. ForkAwesome is a popular icon font that includes hundreds of customizable icons for a variety of purposes.
          
@@ -37,55 +38,80 @@
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
    </head>
    <body>
-      <a class="picture">
-      <img src="./images/profilepicture.webp" alt="YOUR ALT TEXT">
-      </a>
-      <div class="user">
-         Username
-      </div>
-      <div class="description">
-         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
-      </div>
-      <div class="links">
-         <a class="link" href="#" target="_blank">
-         Website
-         </a>
-         <div class="separator">
-            Social Media
+      <header aria-label="Header with profile image and description">
+         <div class="picture" role="img" aria-label="Profile picture">
+            <img src="./images/profilepicture.webp" alt="YOUR ALT TEXT">
          </div>
-         <a class="link mastodon" href="#" target="_blank">
-         <i class="fa fa-mastodon" aria-hidden="true"></i> Mastodon / Fediverse
-         </a>
-         <a class="link pixelfed" href="#" target="_blank">
-         <i class="fa fa-pixelfed" aria-hidden="true"></i> Pixelfed
-         </a>
-         <div class="separator">
-            Separator
+         <h1 class="user" tabindex="0" title="USERNAME">
+            Username
+         </h1>
+         <p class="description">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
+         </p>
+         <div class="links link_item">
+            <a class="link" href="#" target="_blank">
+               Website
+            </a>
          </div>
-         <a class="link" href="#" target="_blank">
-         <i class="fa fa-link" aria-hidden="true"></i> Example
-         </a>
-         <a class="link" href="#" target="_blank">
-         <i class="fa fa-link" aria-hidden="true"></i> Example
-         </a>
-         <a class="link" href="#" target="_blank">
-         <i class="fa fa-link" aria-hidden="true"></i> Example
-         </a>
-         <div class="separator">
-            Separator
+      </header>
+      <main id="main" aria-label="Main content with links">
+         <div class="link_container">
+            <h2 class="separator" tabindex="0" title="Social Media">
+               Social Media
+            </h2>
+            <ul class="link_list" aria-label="Social Media Link List">
+               <li class="link_item"><a class="link mastodon" href="#" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i>
+                  Mastodon / Fediverse
+               </a></li>
+               <li class="link_item"><a class="link pixelfed" href="#" target="_blank"><i class="fa fa-pixelfed" aria-hidden="true"></i>
+                  Pixelfed
+               </a></li>
+               <li class="link_item"><a class="link bandcamp" href="#" target="_blank"><i class="fa fa-bandcamp" aria-hidden="true"></i>
+                  Bandcamp example
+               </a></li>
+               <li class="link_item"><a class="link ko-fi" href="#" target="_blank"><i class="fa fa-coffee" aria-hidden="true"></i>
+                  Ko-fi example
+               </a></li>
+               <li class="link_item"><a class="link spotify" href="#" target="_blank"><i class="fa fa-spotify" aria-hidden="true"></i>
+                  Spotify example
+               </a></li>
+            </ul>
          </div>
-         <a class="link bandcamp" href="#" target="_blank">
-         <i class="fa fa-bandcamp" aria-hidden="true"></i> Bandcamp example
-         </a>
-         <a class="link ko-fi" href="#" target="_blank">
-         <i class="fa fa-coffee" aria-hidden="true"></i> Ko-fi example
-         </a>
-         <a class="link spotify" href="#" target="_blank">
-         <i class="fa fa-spotify" aria-hidden="true"></i> Spotify example
-         </a>
-      </div>
-      <div class="source">
-         Footer content - Created with <a href="https://github.com/revengeday/verknuepfungsbaum" target="_blank">🔗🌳 Verknüpfungsbaum</a>
-      </div>
+         <div class="link_container">
+            <h2 class="separator" tabindex="0" title="SEPARATOR 1">
+               Separator 1
+            </h2>
+            <ul class="link_list" aria-label="SEPARATOR NAME GOES HERE Link List">
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+            </ul>
+         </div>
+         <div class="link_container">
+            <h2 class="separator" tabindex="0" title="SEPARATOR 2">
+               Separator 2
+            </h2>
+            <ul class="link_list" aria-label="SEPARATOR NAME GOES HERE Link List">
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+               <li class="link_item"><a class="link" href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>
+                  Example
+               </a></li>
+            </ul>
+         </div>
+      </main>
+      <footer class="source" aria-label="Footer information">
+         <p>Footer content - Created with <a href="https://github.com/revengeday/verknuepfungsbaum" target="_blank">Verknüpfungsbaum🔗🌳</a></p>
+      </footer>
    </body>
 </html>
