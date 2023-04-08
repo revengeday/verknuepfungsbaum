@@ -13,6 +13,7 @@ body {
     height: 100%;
     font-family: monospace;
 }
+
 html {
     background-image: url('../images/background.webp');
     background-color: black;
@@ -26,6 +27,7 @@ body {
     height: fit-content;
     min-height: 100%;
 }
+
 :root {
     --accentcolor: #fff;
     --delay: .3s;
@@ -39,6 +41,11 @@ body {
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
+}
+
+.separator {
+    font-size: 1.1rem;
+    font-weight: unset;
 }
 
 .separator,
@@ -77,11 +84,17 @@ body {
     text-decoration: none;
 }
 
-.links {
+.links,
+.link_list {
     max-width: 675px;
     width: auto;
     display: block;
     margin: 27px auto;
+    padding-inline-start: 0;
+}
+
+.link_item {
+    list-style: none;
 }
 
 .link {
