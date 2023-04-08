@@ -1,0 +1,1359 @@
+/*
+Using these CSS classes it is possible that the buttons get a different color matching the linked page.
+Just change the CSS classes in the index.html which are used for links, e.g. like this: class="link mastodon"
+
+The brands are based on the list of ForkAwesome.
+List is not yet complete.
+*/
+.fivehundredpx {
+    background-color: ;
+    color: ;
+}
+
+.activitypub {
+    background-color: rgba(241, 0, 127, 0.8);
+    color: #ffffff;
+}
+
+.adn {
+    background-color: ;
+    color: ;
+}
+
+.amazon {
+    background-color: rgba(247, 148, 0, 0.8);
+    color: #ffffff;
+}
+
+.amazon-music {
+    background-color: rgba(0, 130, 199, 0.8);
+    color: #ffffff;
+}
+
+.android {
+    background-color: rgba(48, 215, 128, 0.8);
+    color: #ffffff;
+}
+
+.angellist {
+    background-color: rgba(0, 45, 51, 0.8);
+    color: #ffffff;
+}
+
+.apple {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.apple-music {
+    background-color: rgba(251, 66, 90, 0.8);
+    color: #ffffff;
+}
+
+.archive-org {
+    background-color: rgba(251, 66, 90, 0.8);
+    color: #ffffff;
+}
+
+.archlinux {
+    background-color: rgba(22, 142, 202, 0.8);
+    color: #ffffff;
+}
+
+.artstation {
+    background-color: rgba(19, 168, 233, 0.8);
+    color: #ffffff;
+}
+
+.att {
+    background-color: rgba(0, 163, 217, 0.8);
+    color: #ffffff;
+}
+
+.bandcamp {
+    background-color: rgba(97, 146, 156, 0.8);
+    color: #ffffff;
+}
+
+.bandcamp-alt {
+    background-color: rgba(29, 160, 195, 0.8);
+    color: #ffffff;
+}
+
+.behance {
+    background-color: rgba(0, 87, 255, 0.8);
+    color: #ffffff;
+}
+
+.behance-alt {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.bitbucket {
+    background-color: rgba(37, 128, 247, 0.8);
+    color: #ffffff;
+}
+
+.bitcoin {
+    background-color: rgba(235, 140, 42, 0.8);
+    color: #ffffff;
+}
+
+.black-tie {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.bluetooth {
+    background-color: rgba(10, 59, 140, 0.8);
+    color: #ffffff;
+}
+
+.boardgamegeek {
+    background-color: rgba(255, 81, 0, 0.8);
+    color: #ffffff;
+}
+
+.bootstrap {
+    background-color: rgba(113, 16, 239, 0.8);
+    color: #ffffff;
+}
+
+.buymeacoffee {
+    background-color: rgba(247, 214, 0, 0.8);
+    color: #3e3e3e;
+}
+
+.buysellads {
+    background-color: rgba(217, 72, 71, 0.8);
+    color: #ffffff;
+}
+
+
+.paypal {
+    background-color: rgba(3, 164, 236, 0.8);
+    color: #ffffff;
+}
+
+.paypal-alt {
+    background-color: rgba(39, 51, 142, 0.8);
+    color: #ffffff;
+}
+
+.stripe {
+    background-color: rgba(96, 88, 247, 0.8);
+    color: #ffffff;
+}
+
+.chrome {
+    background-color: rgba(245, 203, 10, 0.8);
+    color: #ffffff;
+}
+
+.classicpress {
+    background-color: rgba(4, 122, 147, 0.8);
+    color: #f7f7f7;
+}
+
+.codepen {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.codiepie {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000000;
+}
+
+.connectdevelop {
+    background-color: rgba(243, 243, 245, 0.8);
+    color: #000000;
+}
+
+.contao {
+    background-color: rgba(236, 120, 0, 0.8);
+    color: #f7f7f7;
+}
+
+.csharp {
+    background-color: rgba(157, 116, 213, 0.8);
+    color: #ffffff;
+}
+
+.css3 {
+    background-color: rgba(40, 98, 233, 0.8);
+    color: #ffffff;
+}
+
+.dashcube {
+    background-color: rgba(247, 124, 0, 0.8);
+    color: #ffffff;
+}
+
+.debian {
+    background-color: rgba(208, 7, 78, 0.8);
+    color: #ffffff;
+}
+
+.deezer {
+    background-color: rgba(245, 162, 0, 0.8);
+    color: #ffffff;
+}
+
+.delicious {
+    background-color: rgba(25, 115, 230, 0.8);
+    color: #ffffff;
+}
+
+.dev-to {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.deviantart {
+    background-color: rgba(0, 199, 52, 0.8);
+    color: #000000;
+}
+
+.diaspora {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+}
+
+.digg {
+    background-color: rgba(39, 93, 140, 0.8);
+    color: #f7f7f5;
+}
+
+.digitalocean {
+    background-color: rgba(0, 102, 247, 0.8);
+    color: #f7f7f7;
+}
+
+.discord {
+    background-color: rgba(64, 78, 237, 0.8);
+    color: #ffffff;
+}
+
+
+.dogmazic {
+    background-color: rgba(49, 49, 49, 0.8);
+    color: #f7f7f7;
+}
+
+.dribbble {
+    background-color: rgba(225, 74, 132, 0.8);
+    color: #f7f7f7;
+}
+
+.dropbox {
+    background-color: rgba(0, 94, 246, 0.8);
+    color: #f7f7f7;
+}
+
+.drupal {
+    background-color: rgba(41, 164, 217, 0.8);
+    color: #ffffff;
+}
+
+.edge {
+    background-color: rgba(0, 116, 208, 0.8);
+    color: #ffffff;
+}
+
+.ethereum {
+    background-color: rgba(95, 122, 227, 0.8);
+    color: #ffffff;
+}
+
+.etsy {
+    background-color: rgba(219, 100, 0, 0.0.8);
+    color: #ffffff;
+}
+
+.expeditedssl {
+    background-color: ;
+    color: ;
+}
+
+.f-droid {
+    background-color: ;
+    color: ;
+}
+
+.fa {
+    background-color: ;
+    color: ;
+}
+
+.facebook {
+    background-color: ;
+    color: ;
+}
+
+.facebook-f {
+    background-color: ;
+    color: ;
+}
+
+.facebook-messenger {
+    background-color: ;
+    color: ;
+}
+
+.facebook-official {
+    background-color: ;
+    color: ;
+}
+
+.facebook-square {
+    background-color: ;
+    color: ;
+}
+
+.ffmpeg {
+    background-color: ;
+    color: ;
+}
+
+.firefox {
+    background-color: ;
+    color: ;
+}
+
+.first-order {
+    background-color: ;
+    color: ;
+}
+
+.flickr {
+    background-color: ;
+    color: ;
+}
+
+.font-awesome {
+    background-color: ;
+    color: ;
+}
+
+.fonticons {
+    background-color: ;
+    color: ;
+}
+
+.fork-awesome {
+    background-color: ;
+    color: ;
+}
+
+.fork-circle {
+    background-color: ;
+    color: ;
+}
+
+.fort-awesome {
+    background-color: ;
+    color: ;
+}
+
+.forumbee {
+    background-color: ;
+    color: ;
+}
+
+.foursquare {
+    background-color: ;
+    color: ;
+}
+
+.free-code-camp {
+    background-color: ;
+    color: ;
+}
+
+.freedombox {
+    background-color: ;
+    color: ;
+}
+
+.friendica {
+    background-color: ;
+    color: ;
+}
+
+.funkwhale {
+    background-color: ;
+    color: ;
+}
+
+.ge {
+    background-color: ;
+    color: ;
+}
+
+.get-pocket {
+    background-color: ;
+    color: ;
+}
+
+.gg {
+    background-color: ;
+    color: ;
+}
+
+.gg-circle {
+    background-color: ;
+    color: ;
+}
+
+.gimp {
+    background-color: ;
+    color: ;
+}
+
+.git {
+    background-color: ;
+    color: ;
+}
+
+.git-square {
+    background-color: ;
+    color: ;
+}
+
+.gitea {
+    background-color: ;
+    color: ;
+}
+
+.github {
+    background-color: rgba(36, 41, 47, 0.8);
+    color: #ffffff;
+}
+
+.github-alt {
+    background-color: ;
+    color: ;
+}
+
+.github-square {
+    background-color: ;
+    color: ;
+}
+
+.gitlab {
+    background-color: ;
+    color: ;
+}
+
+.gittip {
+    background-color: ;
+    color: ;
+}
+
+.glide {
+    background-color: ;
+    color: ;
+}
+
+.glide-g {
+    background-color: ;
+    color: ;
+}
+
+.gnu {
+    background-color: ;
+    color: ;
+}
+
+.gnu-social {
+    background-color: ;
+    color: ;
+}
+
+.gnupg {
+    background-color: ;
+    color: ;
+}
+
+.google {
+    background-color: ;
+    color: ;
+}
+
+.google-play {
+    background-color: ;
+    color: ;
+}
+
+.google-plus {
+    background-color: ;
+    color: ;
+}
+
+.google-plus-circle {
+    background-color: ;
+    color: ;
+}
+
+.google-plus-g {
+    background-color: ;
+    color: ;
+}
+
+.google-plus-official {
+    background-color: ;
+    color: ;
+}
+
+.google-plus-square {
+    background-color: ;
+    color: ;
+}
+
+.google-wallet {
+    background-color: ;
+    color: ;
+}
+
+.gratipay {
+    background-color: ;
+    color: ;
+}
+
+.grav {
+    background-color: ;
+    color: ;
+}
+
+.hackaday {
+    background-color: ;
+    color: ;
+}
+
+.hacker-news {
+    background-color: ;
+    color: ;
+}
+
+.hackster {
+    background-color: ;
+    color: ;
+}
+
+.hal {
+    background-color: ;
+    color: ;
+}
+
+.hashnode {
+    background-color: ;
+    color: ;
+}
+
+.hassio {
+    background-color: ;
+    color: ;
+}
+
+.heroku {
+    background-color: ;
+    color: ;
+}
+
+.home-assistant {
+    background-color: ;
+    color: ;
+}
+
+.houzz {
+    background-color: ;
+    color: ;
+}
+
+.html5 {
+    background-color: ;
+    color: ;
+}
+
+.hubzilla {
+    background-color: ;
+    color: ;
+}
+
+.imdb {
+    background-color: ;
+    color: ;
+}
+
+.inkscape {
+    background-color: ;
+    color: ;
+}
+
+.instagram {
+    background-color: ;
+    color: ;
+}
+
+.internet-explorer {
+    background-color: ;
+    color: ;
+}
+
+.ioxhost {
+    background-color: ;
+    color: ;
+}
+
+.java {
+    background-color: ;
+    color: ;
+}
+
+.jirafeau {
+    background-color: ;
+    color: ;
+}
+
+.joomla {
+    background-color: ;
+    color: ;
+}
+
+.joplin {
+    background-color: ;
+    color: ;
+}
+
+.jsfiddle {
+    background-color: ;
+    color: ;
+}
+
+.julia {
+    background-color: ;
+    color: ;
+}
+
+.jupyter {
+    background-color: ;
+    color: ;
+}
+
+.keybase {
+    background-color: ;
+    color: ;
+}
+
+.ko-fi {
+    background-color: rgba(19, 195, 255, 0.8);
+    color: #ffffff;
+}
+
+
+.laravel {
+    background-color: ;
+    color: ;
+}
+
+.lastfm {
+    background-color: ;
+    color: ;
+}
+
+.lastfm-square {
+    background-color: ;
+    color: ;
+}
+
+.leanpub {
+    background-color: ;
+    color: ;
+}
+
+.liberapay {
+    background-color: ;
+    color: ;
+}
+
+.liberapay-square {
+    background-color: ;
+    color: ;
+}
+
+.linkedin {
+    background-color: ;
+    color: ;
+}
+
+.linkedin-square {
+    background-color: ;
+    color: ;
+}
+
+.linode {
+    background-color: ;
+    color: ;
+}
+
+.linux {
+    background-color: ;
+    color: ;
+}
+
+.mariadb {
+    background-color: ;
+    color: ;
+}
+
+.markdown {
+    background-color: ;
+    color: ;
+}
+
+.mastodon {
+    background-color: rgba(99, 100, 255, 0.8);
+    color: #ffffff;
+}
+
+.matrix-org {
+    background-color: ;
+    color: ;
+}
+
+.maxcdn {
+    background-color: ;
+    color: ;
+}
+
+.meanpath {
+    background-color: ;
+    color: ;
+}
+
+.medium {
+    background-color: ;
+    color: ;
+}
+
+.medium-square {
+    background-color: ;
+    color: ;
+}
+
+.meetup {
+    background-color: ;
+    color: ;
+}
+
+.mixcloud {
+    background-color: ;
+    color: ;
+}
+
+.modx {
+    background-color: ;
+    color: ;
+}
+
+.mysql {
+    background-color: ;
+    color: ;
+}
+
+.nextcloud {
+    background-color: ;
+    color: ;
+}
+
+.nextcloud-square {
+    background-color: ;
+    color: ;
+}
+
+.nodejs {
+    background-color: ;
+    color: ;
+}
+
+.nordcast {
+    background-color: ;
+    color: ;
+}
+
+.odnoklassniki {
+    background-color: ;
+    color: ;
+}
+
+.odnoklassniki-square {
+    background-color: ;
+    color: ;
+}
+
+.open-collective {
+    background-color: ;
+    color: ;
+}
+
+.opencart {
+    background-color: ;
+    color: ;
+}
+
+.openid {
+    background-color: ;
+    color: ;
+}
+
+.opera {
+    background-color: ;
+    color: ;
+}
+
+.optin-monster {
+    background-color: ;
+    color: ;
+}
+
+.orcid {
+    background-color: ;
+    color: ;
+}
+
+.pagelines {
+    background-color: ;
+    color: ;
+}
+
+.patreon {
+    background-color: ;
+    color: ;
+}
+
+.paypal {
+    background-color: ;
+    color: ;
+}
+
+.peertube {
+    background-color: ;
+    color: ;
+}
+
+.php {
+    background-color: ;
+    color: ;
+}
+
+.pinterest {
+    background-color: ;
+    color: ;
+}
+
+.pinterest-p {
+    background-color: ;
+    color: ;
+}
+
+.pinterest-square {
+    background-color: ;
+    color: ;
+}
+
+.pixelfed {
+    background-color: rgba(255, 135, 20, 0.8);
+    color: #ffffff;
+}
+
+.pleroma {
+    background-color: ;
+    color: ;
+}
+
+.plume {
+    background-color: ;
+    color: ;
+}
+
+.postgresql {
+    background-color: ;
+    color: ;
+}
+
+.product-hunt {
+    background-color: ;
+    color: ;
+}
+
+.python {
+    background-color: ;
+    color: ;
+}
+
+.qq {
+    background-color: ;
+    color: ;
+}
+
+.quora {
+    background-color: ;
+    color: ;
+}
+
+.ra {
+    background-color: ;
+    color: ;
+}
+
+.ravelry {
+    background-color: ;
+    color: ;
+}
+
+.react {
+    background-color: ;
+    color: ;
+}
+
+.rebel {
+    background-color: ;
+    color: ;
+}
+
+.reddit {
+    background-color: rgba(255, 69, 0, 0.8);
+    color: #ffffff;
+}
+
+.renren {
+    background-color: ;
+    color: ;
+}
+
+.researchgate {
+    background-color: ;
+    color: ;
+}
+
+.resistance {
+    background-color: ;
+    color: ;
+}
+
+.safari {
+    background-color: ;
+    color: ;
+}
+
+.sass {
+    background-color: ;
+    color: ;
+}
+
+.sass-alt {
+    background-color: ;
+    color: ;
+}
+
+.scribd {
+    background-color: ;
+    color: ;
+}
+
+.scuttlebutt {
+    background-color: ;
+    color: ;
+}
+
+.sellsy {
+    background-color: ;
+    color: ;
+}
+
+.shaarli {
+    background-color: ;
+    color: ;
+}
+
+.shaarli-o {
+    background-color: ;
+    color: ;
+}
+
+.share-alt {
+    background-color: ;
+    color: ;
+}
+
+.share-alt-square {
+    background-color: ;
+    color: ;
+}
+
+.shirtsinbulk {
+    background-color: ;
+    color: ;
+}
+
+.simplybuilt {
+    background-color: ;
+    color: ;
+}
+
+.sketchfab {
+    background-color: ;
+    color: ;
+}
+
+.skyatlas {
+    background-color: ;
+    color: ;
+}
+
+.skype {
+    background-color: ;
+    color: ;
+}
+
+.slack {
+    background-color: ;
+    color: ;
+}
+
+.slideshare {
+    background-color: ;
+    color: ;
+}
+
+.snapchat {
+    background-color: ;
+    color: ;
+}
+
+.snapchat-ghost {
+    background-color: ;
+    color: ;
+}
+
+.snapchat-square {
+    background-color: ;
+    color: ;
+}
+
+.snowdrift {
+    background-color: ;
+    color: ;
+}
+
+.social-home {
+    background-color: ;
+    color: ;
+}
+
+.soundcloud {
+    background-color: rgba(255, 85, 0, 0.8);
+    color: #ffffff;
+}
+
+.spotify {
+    background-color: rgba(26, 178, 107, 0.8);
+    color: #ffffff;
+}
+
+.spotify-alt {
+    background-color: rgba(30, 215, 96, 0.8);
+    color: #ffffff;
+}
+
+.ssb {
+    background-color: ;
+    color: ;
+}
+
+.stack-exchange {
+    background-color: ;
+    color: ;
+}
+
+.stack-overflow {
+    background-color: ;
+    color: ;
+}
+
+.steam {
+    background-color: ;
+    color: ;
+}
+
+.steam-square {
+    background-color: ;
+    color: ;
+}
+
+.stumbleupon {
+    background-color: ;
+    color: ;
+}
+
+.stumbleupon-circle {
+    background-color: ;
+    color: ;
+}
+
+.superpowers {
+    background-color: ;
+    color: ;
+}
+
+.syncthing {
+    background-color: ;
+    color: ;
+}
+
+.telegram {
+    background-color: ;
+    color: ;
+}
+
+.tencent-weibo {
+    background-color: ;
+    color: ;
+}
+
+.tex {
+    background-color: ;
+    color: ;
+}
+
+.textpattern {
+    background-color: ;
+    color: ;
+}
+
+.themeisle {
+    background-color: ;
+    color: ;
+}
+
+.tipeee {
+    background-color: ;
+    color: ;
+}
+
+.tor-onion {
+    background-color: ;
+    color: ;
+}
+
+.trello {
+    background-color: ;
+    color: ;
+}
+
+.tripadvisor {
+    background-color: ;
+    color: ;
+}
+
+.tumblr {
+    background-color: ;
+    color: ;
+}
+
+.tumblr-square {
+    background-color: ;
+    color: ;
+}
+
+.twitch {
+    background-color: ;
+    color: ;
+}
+
+.twitter {
+    background-color: ;
+    color: ;
+}
+
+.twitter-square {
+    background-color: ;
+    color: ;
+}
+
+.tidal {
+    background-color: rgba(16, 16, 18, 0.8);
+    color: #ffffff;
+}
+
+.unity {
+    background-color: ;
+    color: ;
+}
+
+.unsplash {
+    background-color: ;
+    color: ;
+}
+
+.usb {
+    background-color: ;
+    color: ;
+}
+
+.viacoin {
+    background-color: ;
+    color: ;
+}
+
+.viadeo {
+    background-color: ;
+    color: ;
+}
+
+.viadeo-square {
+    background-color: ;
+    color: ;
+}
+
+.vimeo {
+    background-color: ;
+    color: ;
+}
+
+.vimeo-square {
+    background-color: ;
+    color: ;
+}
+
+.vimeo-v {
+    background-color: ;
+    color: ;
+}
+
+.vine {
+    background-color: ;
+    color: ;
+}
+
+.vk {
+    background-color: ;
+    color: ;
+}
+
+.wechat {
+    background-color: ;
+    color: ;
+}
+
+.weibo {
+    background-color: ;
+    color: ;
+}
+
+.weixin {
+    background-color: ;
+    color: ;
+}
+
+.whatsapp {
+    background-color: ;
+    color: ;
+}
+
+.wikidata {
+    background-color: ;
+    color: ;
+}
+
+.wikipedia-w {
+    background-color: ;
+    color: ;
+}
+
+.windows {
+    background-color: ;
+    color: ;
+}
+
+.wire {
+    background-color: ;
+    color: ;
+}
+
+.wordpress {
+    background-color: ;
+    color: ;
+}
+
+.wpbeginner {
+    background-color: ;
+    color: ;
+}
+
+.wpexplorer {
+    background-color: ;
+    color: ;
+}
+
+.wpforms {
+    background-color: ;
+    color: ;
+}
+
+.xing {
+    background-color: ;
+    color: ;
+}
+
+.xing-square {
+    background-color: ;
+    color: ;
+}
+
+.xmpp {
+    background-color: ;
+    color: ;
+}
+
+.y-combinator {
+    background-color: ;
+    color: ;
+}
+
+.yahoo {
+    background-color: ;
+    color: ;
+}
+
+.yc {
+    background-color: ;
+    color: ;
+}
+
+.yelp {
+    background-color: ;
+    color: ;
+}
+
+.yoast {
+    background-color: ;
+    color: ;
+}
+
+.youtube {
+    background-color: rgba(234, 50, 35, 0.8);
+    color: #ffffff;
+}
+
+.youtube-music {
+    background-color: rgba(255, 0, 2, 0.8);
+    color: #fffefd;
+}
+
+.zotero {
+    background-color: ;
+    color: ;
+}
