@@ -82,11 +82,17 @@ font-weight: unset;
     text-decoration: none;
 }
 
-.links {
+.links,
+.link_list {
     max-width: 675px;
     width: auto;
     display: block;
     margin: 27px auto;
+    padding-inline-start: 0;
+}
+
+.link_item {
+    list-style: none;
 }
 
 .link {
