@@ -10,6 +10,8 @@ This Template is designed to be an affordable solution for individuals or small 
 
 With its simple structure, you can easily customize your "**Verknüpfungsbaum**" page to match your brand or personality, and share it with your audience on various social media platforms.
 
+See our demo page - https://revengeday.github.io/verknuepfungsbaum/
+
 ## Why 🔗🌳
 "**Verknüpfungsbaum**" is a fantastic alternative to *Corpotree* that offers numerous advantages. Firstly, it is completely free of charge, which means that you don't have to spend hundreds of euros or dollars to create a landing page for all your important links. This makes it a great option for individuals or small businesses on a tight budget.
 
@@ -24,11 +26,11 @@ Lastly, "**Verknüpfungsbaum**" doesn't have a weird business model, unlike *Cor
 Overall, "**Verknüpfungsbaum**" is a great alternative to *Corpotree* that offers many benefits, including being free of charge, easy to change, privacy-friendly, community-driven, and without any weird business model.
 
 ## Install
-Installing X is a straightforward process, and it requires only a few simple steps. Here's a tutorial on how to install "**Verknüpfungsbaum**":
+Installing **Verknüpfungsbaum** is a straightforward process, and it requires only a few simple steps. Here's a tutorial on how to install "**Verknüpfungsbaum**":
 
 1. Webspace Needed: The first step is to have webspace available to install "**Verknüpfungsbaum**". You can either use a web hosting service or set up your own server. Ensure that you have the necessary permissions to install software on the server or hosting account.
 
-2. Move all files to the web directory: Once you have the necessary webspace, the next step is to download the X software and move all the files to the web directory. You can download the software from the official website or through a package manager. After downloading the software, extract the files and move them to the web directory using an FTP client or the command line.
+2. Move all files to the web directory: Once you have the necessary webspace, the next step is to download the **Verknüpfungsbaum** Template and move all the files to the web directory. After downloading the Template, extract the files and move them to the web directory using an FTP client or the command line.
 
 3. Customize content in index.html and style.css if desired: By default, "**Verknüpfungsbaum**" comes with a basic index.html file and a style.css file. You can customize these files to match your preferences and branding. You can add your own content, images, and styles to create a unique look and feel for your website.
 
