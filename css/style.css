@@ -114,6 +114,12 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
+footer a {
+  color: var(--accentcolor);
+  font-weight: bold;
+  text-decoration: none;
+}
+
 @media (hover: hover) {
     .link:hover {
         background-color: var(--accentcolor);
